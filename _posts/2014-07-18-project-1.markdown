@@ -5,14 +5,11 @@ categories:
 - Web Development
 subtitle: User Experience Design
 modal-id: 1
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: amazonproduct.jpg
+thumbnail: amazonproduct.jpg
 alt: image-alt
-project-date: 2014-04-01 00:00:00 Z
-client: Start Bootstrap
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
-  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 'I redesigned the Amazon app after determining weaknesses based on principles
+  of the heuristic evaluation. '
 layout: default
 ---
 
