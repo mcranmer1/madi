@@ -1,5 +1,5 @@
 ---
-title: Awesome Title
+title: Madi Cranmer
 timezone: UTC
 collections:
   posts:
@@ -8,56 +8,25 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: https://y7kim.github.io
-baseurl: "/agency-jekyll-theme/"
-email: your-email@domain.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+url: www.madi-designs.com
+baseurl: "/madi-designs"
+email: madison_cranmer@hotmail.com
+description: 'Madison Cranmer''s portflio website that will showcase all of her work. '
 people:
-- name: Kay Garland
+- name: Madison Cranmer
   pic: 1
-  position: Lead Designer
+  position: Design Student
   social:
   - title: twitter
     url: 
   - title: facebook
-    url: 
-  - title: stack-overflow
-    url: 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url: 
-  - title: linkedin
-    url: 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url: 
-  - title: google-plus
     url: 
 social:
-- title: twitter
-  url: http://twitter.com/jekyllrb
-- title: facebook
-  url: 
-- title: stack-overflow
-  url: http://stackoverflow.com/questions/tagged/jekyll
-- title: bitbucket
-  url: http://bitbucket.org/jekyll
 - title: github
-  url: http://github.com/jekyll
-address:
-- line: 3481 Melrose Place
-- line: Beverly Hills, CA 90210
+  url: https://github.com/mcranmer1
+- title: linkedin
+  url: https://www.linkedin.com/in/madison-cranmer-982b41135/
+- title: facebook
+  url: https://www.facebook.com/madi.cranmer
 markdown: kramdown
 permalink: pretty
