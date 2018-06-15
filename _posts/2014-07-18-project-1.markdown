@@ -1,17 +1,18 @@
 ---
-title: Pomona
+title: Dreams
 date: 2014-07-18 00:00:00 Z
 categories:
 - Web Development
-subtitle: Graphic Design
-modal-id: 1
-image: "../uploads/FinalLogo-309b12.png"
-thumbnail: "../uploads/FinalLogo-309b12.png"
-alt: image-alt
-project-date: 2017-06-08 00:00:00 Z
-description: 'Logo and packaging design for a made-up healthy drink company. Pomona
-  name derives from the goddess of fruit trees, gardens, and orchards and influenced
-  the creation of the package, logo, and bottle wrapping. '
+subtitle: Website Design
 layout: default
+modal-id: 1
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
+  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
+  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 ---
 
